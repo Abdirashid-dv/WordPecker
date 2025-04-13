@@ -4,6 +4,9 @@
 node_modules/
 
 # Expo
+.vscode/
+.vscode-test/
+.vscode/*
 .expo/
 dist/
 web-build/
@@ -31,6 +34,9 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env*
+.env
 
 # typescript
 *.tsbuildinfo
+.vercel
