@@ -56,7 +56,7 @@ WordPecker Mobile is a personalized language-learning app that brings Duolingo-s
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/wordpecker-mobile.git
+git clone https://github.com/Abdirashid-dv/wordpecker-mobile.git
 
 # Navigate to the project
 cd wordpecker-mobile
@@ -97,7 +97,7 @@ WordPecker/
 
 | Name              | LinkedIn                                                  |
 |-------------------|-----------------------------------------------------------|
-| Abdirashid Mowlid | [linkedin.com/in/abdirashidv]([https://www.linkedin.com/in/alice-dev](https://www.linkedin.com/in/abdirashidv/)) |
+| Abdirashid Mowlid | [linkedin.com/in/abdirashidv](https://www.linkedin.com/in/abdirashidv/) |
 | Arlinda Uruçi     | [linkedin.com/in/arlinda-uruçi](https://www.linkedin.com/in/arlinda-uru%C3%A7i-27900632b/)   |
 | Şükran Güneş      | [linkedin.com/in/şükran-güneş](https://www.linkedin.com/in/%C5%9F%C3%BCkran-g%C3%BCne%C5%9F-713614254/) |
 | Ilayda Uygun     | [linkedin.com/in/ılayda-uygun](https://www.linkedin.com/in/ilayda-uygun-2961a4253/) |
